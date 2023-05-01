@@ -1,9 +1,10 @@
 {
-    "name": "solana developer faucet",
+    "name": "Solana Developer Faucet",
     "version": "0.1.0",
-    "author": "Amir | Avaulto",
-    "repository": "https://github.com/solana-labs/wallet-adapter",
-    "license": "Apache-2.0",
+    "author": "Magicblock",
+    "repository": "https://github.com/magicblock-labs/devnet-faucet",
+    "homepage": "https://github.com/magicblock-labs/devnet-faucet",
+    "license": "MIT",
     "publishConfig": {
         "access": "public"
     },
