@@ -22,7 +22,7 @@ const App: FC = () => {
         <div className="App">
             <Container maxWidth="sm">
 
-                <h1>SOL ALL-IN Devnet Faucet</h1>
+                <h1>Solana Devnet Faucet</h1>
                 <WalletInput address={address} setAddress={setAddress} setIsValid={setIsValid} />
                 {isValid == false && <Alert severity="error">Invalid address</Alert>}
                 <BtnFaucet walletAddress={address} isValid={isValid} connection={connection} setAlertConfig={setAlertConfig} />
@@ -32,8 +32,6 @@ const App: FC = () => {
                     </Alert>
                 </Snackbar>
             </Container>
-            <span id='love'>built with LOVE by <a href="https://avaulto.com" target="_blank"><img src={logo} alt='avaulto logo' /></a></span><br />
-
         </div>
     );
 };
