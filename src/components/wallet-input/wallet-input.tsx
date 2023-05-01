@@ -1,6 +1,6 @@
 import { PublicKey } from '@solana/web3.js';
-import React, { FC, useEffect, useState } from 'react'
-import { Alert, Input } from '@mui/material';
+import { FC, useEffect } from 'react'
+import { Input } from '@mui/material';
 interface WalletInputProps {
     address: string;
     setAddress: Function;

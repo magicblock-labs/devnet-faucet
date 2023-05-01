@@ -1,10 +1,9 @@
-import { Alert, Box, CircularProgress, Container, Snackbar } from '@mui/material';
+import { Alert, Container, Snackbar } from '@mui/material';
 
 import { clusterApiUrl, Connection } from '@solana/web3.js';
 import { FC, useState } from 'react';
 import BtnFaucet from './components/btn-faucet/btn-faucet';
 import WalletInput from './components/wallet-input/wallet-input';
-import logo from './assets/logo_white.png';
 import Plausible from 'plausible-tracker';
 const { trackPageview ,enableAutoPageviews } = Plausible()
 trackPageview()
@@ -24,7 +23,7 @@ const App: FC = () => {
 
                 <h1>Solana Devnet Faucet</h1>
                 <WalletInput address={address} setAddress={setAddress} setIsValid={setIsValid} />
-                {isValid == false && <Alert severity="error">Invalid address</Alert>}
+                {isValid === false && <Alert severity="error">Invalid address</Alert>}
                 <BtnFaucet walletAddress={address} isValid={isValid} connection={connection} setAlertConfig={setAlertConfig} />
                 <Snackbar open={alertConfig.open} autoHideDuration={6000} onClose={() => setAlertConfig({ open: false, message: null })}>
                     <Alert severity="success" sx={{ width: '100%' }}>
