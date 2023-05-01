@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/magicblock-labs/devnet-faucet/static/css/main.37932254.css",
-    "main.js": "/magicblock-labs/devnet-faucet/static/js/main.7b43ce71.js",
-    "static/js/34.26ffdfe6.chunk.js": "/magicblock-labs/devnet-faucet/static/js/34.26ffdfe6.chunk.js",
-    "static/js/853.2badf9ac.chunk.js": "/magicblock-labs/devnet-faucet/static/js/853.2badf9ac.chunk.js",
-    "static/js/595.9b7b54a7.chunk.js": "/magicblock-labs/devnet-faucet/static/js/595.9b7b54a7.chunk.js",
-    "static/media/bg.png": "/magicblock-labs/devnet-faucet/static/media/bg.19855d047c0d5d6ad63e.png",
-    "index.html": "/magicblock-labs/devnet-faucet/index.html",
-    "main.37932254.css.map": "/magicblock-labs/devnet-faucet/static/css/main.37932254.css.map",
-    "main.7b43ce71.js.map": "/magicblock-labs/devnet-faucet/static/js/main.7b43ce71.js.map",
-    "853.2badf9ac.chunk.js.map": "/magicblock-labs/devnet-faucet/static/js/853.2badf9ac.chunk.js.map",
-    "595.9b7b54a7.chunk.js.map": "/magicblock-labs/devnet-faucet/static/js/595.9b7b54a7.chunk.js.map"
+    "main.css": "/devnet-faucet/static/css/main.cbc37f98.css",
+    "main.js": "/devnet-faucet/static/js/main.f99dc634.js",
+    "static/js/34.26ffdfe6.chunk.js": "/devnet-faucet/static/js/34.26ffdfe6.chunk.js",
+    "static/js/853.2badf9ac.chunk.js": "/devnet-faucet/static/js/853.2badf9ac.chunk.js",
+    "static/js/595.9386156f.chunk.js": "/devnet-faucet/static/js/595.9386156f.chunk.js",
+    "static/media/bg.png": "/devnet-faucet/static/media/bg.19855d047c0d5d6ad63e.png",
+    "index.html": "/devnet-faucet/index.html",
+    "main.cbc37f98.css.map": "/devnet-faucet/static/css/main.cbc37f98.css.map",
+    "main.f99dc634.js.map": "/devnet-faucet/static/js/main.f99dc634.js.map",
+    "853.2badf9ac.chunk.js.map": "/devnet-faucet/static/js/853.2badf9ac.chunk.js.map",
+    "595.9386156f.chunk.js.map": "/devnet-faucet/static/js/595.9386156f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.37932254.css",
-    "static/js/main.7b43ce71.js"
+    "static/css/main.cbc37f98.css",
+    "static/js/main.f99dc634.js"
   ]
 }
