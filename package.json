@@ -3,7 +3,7 @@
     "version": "0.1.0",
     "author": "Magicblock",
     "repository": "https://github.com/magicblock-labs/devnet-faucet",
-    "homepage": "https://github.com/magicblock-labs/devnet-faucet",
+    "homepage": "https://magicblock-labs.github.io/devnet-faucet",
     "license": "MIT",
     "publishConfig": {
         "access": "public"
