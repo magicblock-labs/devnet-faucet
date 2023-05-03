@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/devnet-faucet/static/css/main.cbc37f98.css",
-    "main.js": "/devnet-faucet/static/js/main.4abc62e5.js",
+    "main.js": "/devnet-faucet/static/js/main.2e26ce5c.js",
     "static/js/34.26ffdfe6.chunk.js": "/devnet-faucet/static/js/34.26ffdfe6.chunk.js",
     "static/js/853.2badf9ac.chunk.js": "/devnet-faucet/static/js/853.2badf9ac.chunk.js",
     "static/js/595.9386156f.chunk.js": "/devnet-faucet/static/js/595.9386156f.chunk.js",
     "static/media/bg.png": "/devnet-faucet/static/media/bg.19855d047c0d5d6ad63e.png",
     "index.html": "/devnet-faucet/index.html",
     "main.cbc37f98.css.map": "/devnet-faucet/static/css/main.cbc37f98.css.map",
-    "main.4abc62e5.js.map": "/devnet-faucet/static/js/main.4abc62e5.js.map",
+    "main.2e26ce5c.js.map": "/devnet-faucet/static/js/main.2e26ce5c.js.map",
     "853.2badf9ac.chunk.js.map": "/devnet-faucet/static/js/853.2badf9ac.chunk.js.map",
     "595.9386156f.chunk.js.map": "/devnet-faucet/static/js/595.9386156f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cbc37f98.css",
-    "static/js/main.4abc62e5.js"
+    "static/js/main.2e26ce5c.js"
   ]
 }
