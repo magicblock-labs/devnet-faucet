@@ -73,7 +73,7 @@ const BtnFaucet: FC<BtnFaucetProps> = ({ walletAddress, connection, setAlertConf
                 .create({
                     tokenOwner: new PublicKey(walletAddress),
                     isCollection: true,
-                    uri: "https://yyuf64d3dxl7pzwpyvwb24vqgztrxci5w3rvubbogt5s2d2m3weq.arweave.net/xihfcHsd1_fmz8VsHXKwNmcbiR2241oELjT7LQ9M3Yk",
+                    uri: "https://y5fi7acw5f5r4gu6ixcsnxs6bhceujz4ijihcebjly3zv3lcoqkq.arweave.net/x0qPgFbpex4ankXFJt5eCcRKJzxCUHEQKV43mu1idBU",
                     name: "Solana faucet NFT",
                     sellerFeeBasisPoints: 500, // Represents 5.00%.
                 })
